@@ -2,7 +2,7 @@ name: uudi_card_plugin
 description: package for uudi aplication.
 version: 0.0.1
 author: UUDI
-homepage: https://github.com/gianlucagodoy/uudi_credit_card.git
+homepage: https://github.com/gianlucagodoy/uudi_card_plugin.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
