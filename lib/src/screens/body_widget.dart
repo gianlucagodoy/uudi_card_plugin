@@ -1,13 +1,10 @@
 library flutter_credit_card_detector;
-
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:provider/provider.dart';
-
 import '../controller/controller.dart';
 import '../utils/credit_card_type_detector.dart';
 import '../utils/globals.dart';
-
 export 'package:flutter_masked_text/flutter_masked_text.dart';
 export 'package:flutter_mobx/flutter_mobx.dart';
 export 'package:provider/provider.dart';
